@@ -9,8 +9,8 @@ const player1 = {
 const player2 = {
     NOME: "Luigi",
     VELOCIDADE: 4,
-    MANOBRABILIDADE: 3,
-    PODER: 3, 
+    MANOBRABILIDADE: 4,
+    PODER: 4, 
     PONTOS: 0,
 };
 
